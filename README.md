@@ -3,7 +3,7 @@
 <strong>❯❯:zap: Challenge:</strong>
 - Create a validation login page with Typescript and apply an authentication and validation phase with React.
 
-<strong>❯❯:compass: Goal:</strong>
+<strong>❯❯:compass: Description:</strong>
 - Apply all concepts learned during Javascript, React and Typescript courses.
 
 <strong>❯❯:hammer_and_wrench: Languages & Tools:</strong>
